@@ -2,5 +2,7 @@ package tau.sailorsRank;
 
 public enum SailingClass {
     PROFFESIONAL,
-    AMATEUR
+    AMATEUR,
+    COMMERCIAL,
+    COMPETITOR
 }
